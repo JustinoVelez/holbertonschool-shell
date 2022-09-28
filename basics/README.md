@@ -1,0 +1,1 @@
+Readme para proyecto Shell carpeta basics
